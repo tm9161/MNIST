@@ -9,6 +9,6 @@ Jupyter Notebook:
 Tensorflow 环境搭建：  
 CPU：https://www.bilibili.com/read/cv8962053  
 GPU：https://www.bilibili.com/read/cv9003982  
-GPU+Ubuntu：https://github.com/tm9161/MNIST/edit/main/README.md
+GPU+Ubuntu：https://www.bilibili.com/read/cv9164113  
 
 B站讲解视频：
