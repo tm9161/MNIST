@@ -1,6 +1,4 @@
-# MNIST手写数字识别图像分类（更新中）
-
-Jupyter Notebook:  
+Jupyter Notebook 代码:  
 1.0 Tensorflow环境搭建与数据集准备  
 1.1 最近邻实现分类  
 1.2 人工神经网络实现分类  
