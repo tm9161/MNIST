@@ -3,6 +3,8 @@ Jupyter Notebook 代码:
 1.1 最近邻分类  
 1.2 神经网络  
 1.3 卷积神经网络  
+1.4 LeNet-5  
+1.5 模型保存、调用和预测  
 
 Tensorflow 环境搭建：  
 CPU：https://www.bilibili.com/read/cv8962053  
@@ -13,4 +15,5 @@ B站讲解视频：
 1.0 环境搭建与数据集：https://www.bilibili.com/video/BV1vN411X7n7  
 1.1 最近邻分类：https://www.bilibili.com/video/BV1Gy4y1a7jn  
 1.2 神经网络：https://www.bilibili.com/video/BV1Vz4y117Z5  
-1.3 卷积神经网络：https://www.bilibili.com/video/BV1dy4y147aw
+1.3 卷积神经网络：https://www.bilibili.com/video/BV1dy4y147aw  
+1.4 LeNet-5：
