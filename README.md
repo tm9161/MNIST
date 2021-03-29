@@ -1,4 +1,4 @@
-Jupyter Notebook 代码:  
+Jupyter Notebook 程序:  
 1.0 环境搭建与数据集  
 1.1 最近邻分类  
 1.2 神经网络  
