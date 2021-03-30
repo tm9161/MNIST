@@ -16,4 +16,4 @@ B站讲解视频：
 1.1 最近邻分类：https://www.bilibili.com/video/BV1Gy4y1a7jn  
 1.2 神经网络：https://www.bilibili.com/video/BV1Vz4y117Z5  
 1.3 卷积神经网络：https://www.bilibili.com/video/BV1dy4y147aw  
-1.4 LeNet-5：
+1.4 LeNet-5：https://www.bilibili.com/video/bv1Z54y187WW  
