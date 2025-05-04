@@ -5,7 +5,8 @@
 1.3 卷积神经网络  
 1.4 LeNet-5  
 1.5 模型保存、调用和预测  
-LeNet-5-1/-2 PyTorch版  
+LeNet-5-1 LeNet-5网络搭建&训练PyTorch版  
+LeNet-5-2 LeNet-5网络预测PyTorch版  
 
 # 环境搭建：  
 CPU：https://www.bilibili.com/read/cv8962053  
