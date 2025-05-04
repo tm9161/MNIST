@@ -10,7 +10,7 @@ LeNet-5-1/-2 PyTorch版
 # Tensorflow 环境搭建：  
 CPU：https://www.bilibili.com/read/cv8962053  
 GPU：https://www.bilibili.com/read/cv9003982  
-GPU+Ubuntu：https://www.bilibili.com/read/cv9164113
+GPU+Ubuntu：https://www.bilibili.com/read/cv9164113  
 CUDA 11.8+cuDNN 8.6.0：https://www.bilibili.com/opus/1063019665812357126  
 
 # B站讲解视频：  
