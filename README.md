@@ -7,7 +7,7 @@
 1.5 模型保存、调用和预测  
 LeNet-5-1/-2 PyTorch版  
 
-# Tensorflow 环境搭建：  
+# 环境搭建：  
 CPU：https://www.bilibili.com/read/cv8962053  
 GPU：https://www.bilibili.com/read/cv9003982  
 GPU+Ubuntu：https://www.bilibili.com/read/cv9164113  
